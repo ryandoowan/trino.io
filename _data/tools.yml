@@ -439,6 +439,7 @@
       url: https://dolphinscheduler.apache.org/
     - urltext: Trino swimming with the DolphinScheduler from Trino Community Broadcast 45
       url: https://trino.io/episodes/45.html
+      
 - name: Elasticssearch
   anchor: elasticssearch
   category: data-source
